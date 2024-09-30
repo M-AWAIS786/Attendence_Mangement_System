@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCW9BF0upYWqtF1vF1RvjPoh6a4j7UPp40</string>
+	<key>GCM_SENDER_ID</key>
+	<string>543325241068</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chattychin.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>attendance-management-sy-bd297</string>
+	<key>STORAGE_BUCKET</key>
+	<string>attendance-management-sy-bd297.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:543325241068:ios:2ecc0d7ae19a14c81cefc9</string>
+</dict>
+</plist>
